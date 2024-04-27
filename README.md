@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on bioinformatics,neuroscience and molecular biology
 - 📫 How to reach me linkedin: 
 - 😄 Pronouns: She/they
-- ⚡ Fun fact: There´s a tunnel under ocean blvd
+- ⚡ Fun fact: LOV for all! I´m not talking about love, these gene domains have responses to light, oxygen and voltage isn´t it pretty odd? may be almost LOVEly quantum 
 
 <!---
 Darkoding/Darkoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
