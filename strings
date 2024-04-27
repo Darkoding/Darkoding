@@ -1,0 +1,12 @@
+>print("welcome to brain-drain")
+string1="welcome to brain-drain"
+string2="hallo"
+serebro="welcome to brain-drain"
+hola="hallo"
+frase=serebro + hola
+print(frase)
+serebrof="welcome to brain-brain"
+holaf="hallo"
+
+CORREGIR CON MAS TIEMPO. ESTO FUE EJECUTADO EN VSC 
+777
