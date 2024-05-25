@@ -31,3 +31,9 @@ pixel_art_image = sequence_to_pixel_art(protein_sequence)
 plt.imshow(pixel_art_image)
 plt.axis('off')
 plt.show()
+
+
+
+Additional Tools and Libraries
+Biopython: For handling and analyzing biological data.
+PyMOL: For advanced visualization of protein structures.
