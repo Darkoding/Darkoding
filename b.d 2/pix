@@ -1,7 +1,6 @@
 gpt ex.
 import matplotlib.pyplot as plt
 import numpy as np
-
 def sequence_to_pixel_art(sequence):
     # Create a dictionary to assign colors to amino acids
     amino_acid_colors = {
@@ -9,7 +8,7 @@ def sequence_to_pixel_art(sequence):
         'C': [0, 255, 0],    # Green
         'D': [0, 0, 255],    # Blue
         # Add more amino acids and colors as needed
-    }
+}
 
     # Create an image array
     length = len(sequence)
