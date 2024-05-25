@@ -1,0 +1,33 @@
+gpt ex.
+import matplotlib.pyplot as plt
+import numpy as np
+
+def sequence_to_pixel_art(sequence):
+    # Create a dictionary to assign colors to amino acids
+    amino_acid_colors = {
+        'A': [255, 0, 0],    # Red
+        'C': [0, 255, 0],    # Green
+        'D': [0, 0, 255],    # Blue
+        # Add more amino acids and colors as needed
+    }
+
+    # Create an image array
+    length = len(sequence)
+    image = np.zeros((length, length, 3), dtype=np.uint8)
+
+    for i, amino_acid in enumerate(sequence):
+        color = amino_acid_colors.get(amino_acid, [255, 255, 255])  # Default to white for unknown amino acids
+        image[i, :length] = color
+
+    return image
+
+# Example protein sequence
+protein_sequence = "ACD..."
+
+# Generate pixel art
+pixel_art_image = sequence_to_pixel_art(protein_sequence)
+
+# Display the image
+plt.imshow(pixel_art_image)
+plt.axis('off')
+plt.show()
