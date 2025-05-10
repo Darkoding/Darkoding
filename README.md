@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Darkoding
-- 👀 I’m interested in bioinformatics and data science
+- 👀 I’m interested in bioinformatics applied in genetics and neuroscience
 - 🌱 I’m currently learning python and functional programming
 - 💞️ I’m looking to collaborate on bioinformatics,neuroscience and molecular biology
 - 📫 How to reach me linkedin: 
